@@ -16,7 +16,7 @@ $(document).ready(function(){
 
     var typed = new Typed(".typing", {
 
-        strings: ["Frontend Developer", "Web Designer"],
+        strings: ["Fullstack Developer", "Web Developer"],
 
         typeSpeed: 100,
 
@@ -28,7 +28,7 @@ $(document).ready(function(){
 
     var typed = new Typed(".typing-2", {
 
-        strings: ["Frontend Developer", "Designer" ],
+        strings: ["Fullstack Developer", "Web Developer" ],
 
         typeSpeed: 100,
 
